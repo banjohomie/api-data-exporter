@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.csv
+*.xlsx
+!examples/
+!examples/example_output.csv
+.env
