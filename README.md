@@ -127,17 +127,6 @@ api-data-exporter/
 └── README.md
 ```
 
-## Skills Demonstrated
-
-* Working with REST APIs
-* Handling JSON responses
-* Exporting data to CSV
-* Exporting data to Excel with openpyxl
-* Building command-line interfaces with argparse
-* Error handling
-* Using pathlib for file paths
-* Writing type hints
-
 ## License
 
 This project is open source and available under the MIT License.
