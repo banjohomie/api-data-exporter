@@ -30,7 +30,7 @@ A Python command-line tool that fetches data from public APIs and exports it to 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/api-data-exporter.git
+git clone https://github.com/banjohomie/api-data-exporter.git
 cd api-data-exporter
 ```
 
