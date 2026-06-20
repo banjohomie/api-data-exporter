@@ -3,8 +3,11 @@ __pycache__/
 .venv/
 venv/
 env/
+.env
 *.csv
 *.xlsx
 !examples/
 !examples/example_output.csv
-.env
+build/
+dist/
+*.spec
